@@ -8,7 +8,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=mahesh42646&color=6E40C9&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/mahesh42646)
 [![GitHub followers](https://img.shields.io/github/followers/mahesh42646?label=FOLLOWERS&style=for-the-badge&color=6E40C9&labelColor=1a1a2e)](https://github.com/mahesh42646)
-[![Repos](https://img.shields.io/badge/REPOSITORIES-30+-6E40C9?style=for-the-badge&labelColor=1a1a2e)](https://github.com/mahesh42646?tab=repositories)
+[![Repos](https://img.shields.io/badge/REPOSITORIES-50+-6E40C9?style=for-the-badge&labelColor=1a1a2e)](https://github.com/mahesh42646?tab=repositories)
 
 </div>
 
