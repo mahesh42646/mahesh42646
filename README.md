@@ -23,9 +23,10 @@
 ```yaml
 Name        : Mahesh Darkunde
 Username    : mahesh42646
-Location    : India
-Role        : Full Stack Developer
-Experience  : 5+ Years
+Mobile No.  : +91 7028221812
+Location    : Pune, Maharashtra, India
+Role        : Full Stack Developer | DevOps
+Experience  : 3+ Years
 Focus       : Web · Mobile · DevOps · Blockchain
 Status      : Open to Opportunities
 ```
