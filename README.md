@@ -88,7 +88,6 @@ Node.js        ████████████████████ 92%
 Express.js     ███████████████████░ 90%
 Laravel/PHP    ████████████████░░░░ 78%
 REST APIs      ████████████████████ 95%
-GraphQL        ████████████░░░░░░░░ 60%
 ```
 
 ### <img src="https://img.icons8.com/color/20/000000/iphone.png"/> Mobile Development
@@ -105,7 +104,7 @@ GraphQL        ████████████░░░░░░░░ 60%
 ```
 Flutter/Dart   █████████████████░░░ 85%
 Kotlin/Android ███████████████░░░░░ 75%
-React Native   ████████████░░░░░░░░ 60%
+React Native   █████████████████░░░ 85%
 ```
 
 ### <img src="https://img.icons8.com/color/20/000000/database.png"/> Databases
